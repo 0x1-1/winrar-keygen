@@ -20,8 +20,6 @@ winrar-keygen/
 │       └── HasherSha1Traits.hpp
 ├── src/                 # Source files
 │   └── main.cpp         # Main application entry point
-├── docs/               # Documentation
-│   └── README.md       # Project documentation
 └── README.md           # Project overview
 
 ```
@@ -32,7 +30,6 @@ winrar-keygen/
 - `include/crypto/`: Contains cryptographic implementations like elliptic curve and finite field arithmetic
 - `include/utils/`: Contains utility functions for hashing and other operations
 - `src/`: Contains the main application source code
-- `docs/`: Contains detailed documentation
 
 ## Building
 
